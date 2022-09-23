@@ -1,0 +1,5 @@
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.csproj.AssemblyReference.cache
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.AssemblyInfoInputs.cache
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.AssemblyInfo.cs
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.csproj.CoreCompileInputs.cache

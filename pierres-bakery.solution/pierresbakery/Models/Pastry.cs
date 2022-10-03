@@ -1,12 +1,16 @@
+using System.Security.AccessControl;
+using System;
+using System.Collections.Generic;
+
 namespace PierresBakery.Models
 {
   public class Pastry
   {
-    private int PastryQuantity { get; set; }
+    public int PastryQuantity { get; set; }
 
     public Pastry(int pastryQuantity)
     {
-      PastryQuantity = pastryQuantity
+      PastryQuantity = pastryQuantity;
     }
 
     public int PastryCost()

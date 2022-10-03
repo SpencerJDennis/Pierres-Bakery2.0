@@ -1,0 +1,16 @@
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\pierresbakery.csproj.AssemblyReference.cache
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\pierresbakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\pierresbakery.AssemblyInfoInputs.cache
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\pierresbakery.AssemblyInfo.cs
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\pierresbakery.csproj.CoreCompileInputs.cache
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\bin\Debug\net5.0\pierresbakery.exe
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\bin\Debug\net5.0\pierresbakery.deps.json
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\bin\Debug\net5.0\pierresbakery.runtimeconfig.json
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\bin\Debug\net5.0\pierresbakery.runtimeconfig.dev.json
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\bin\Debug\net5.0\pierresbakery.dll
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\bin\Debug\net5.0\ref\pierresbakery.dll
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\bin\Debug\net5.0\pierresbakery.pdb
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\pierresbakery.dll
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\ref\pierresbakery.dll
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\pierresbakery.pdb
+C:\Users\blade\desktop\pierres-bakery\pierres-bakery.solution\pierresbakery\obj\Debug\net5.0\pierresbakery.genruntimeconfig.cache

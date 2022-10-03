@@ -17,27 +17,27 @@ namespace PierresBakery.Models
     {
       int breadPrice = 5;
 
-      // if(BreadQuantity < 3)
-      // {
+      if(BreadQuantity < 3)
+      {
         int orderPrice = breadPrice * BreadQuantity;
         return orderPrice;
-      // }
-      // else if (BreadQuantity >= 3)
-      // {
-      //   int freeBread = BreadQuantity / 3;
+      }
+      else if (BreadQuantity >= 3)
+      {
+        int freeBread = BreadQuantity / 3;
 
-      //   int normalBreadPrice = BreadQuantity - freeBread;
+        int normalBreadPrice = BreadQuantity - freeBread;
 
-      //   int discount = freeBread * breadPrice;
+        int discount = freeBread * breadPrice;
 
-      //   int orderTotal = normalBreadPrice * breadPrice;
+        int orderTotal = normalBreadPrice * breadPrice;
 
-      //   return orderTotal;
-      // }
-      // else
-      // {
-        //return 0;
-      //}
+        return orderTotal;
+      }
+      else
+      {
+        return 0;
+      }
     }
   }
 }

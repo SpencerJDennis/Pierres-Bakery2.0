@@ -1,8 +1,3 @@
-C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.csproj.AssemblyReference.cache
-C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.AssemblyInfoInputs.cache
-C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.AssemblyInfo.cs
-C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.csproj.CoreCompileInputs.cache
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\bin\Debug\net5.0\pierresbakery.deps.json
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\bin\Debug\net5.0\pierresbakery.runtimeconfig.json
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\bin\Debug\net5.0\pierresbakery.runtimeconfig.dev.json
@@ -97,6 +92,11 @@ C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Test
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\bin\Debug\net5.0\pierresbakery.dll
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\bin\Debug\net5.0\pierresbakery.pdb
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.csproj.AssemblyReference.cache
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.AssemblyInfoInputs.cache
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.AssemblyInfo.cs
+C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.csproj.CoreCompileInputs.cache
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.csproj.CopyComplete
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\pierresbakery.Tests.dll
 C:\Users\blade\Desktop\pierres-bakery\pierres-bakery.solution\pierresbakery.Tests\obj\Debug\net5.0\ref\pierresbakery.Tests.dll

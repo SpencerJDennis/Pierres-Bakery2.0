@@ -15,12 +15,12 @@ namespace PierresBakery.Models
 
     public int BreadCost()
     {
-      // int breadPrice = 5;
+      int breadPrice = 5;
 
       // if(BreadQuantity < 3)
       // {
-      //   int orderPrice = breadPrice * BreadQuantity;
-      //   return orderPrice;
+        int orderPrice = breadPrice * BreadQuantity;
+        return orderPrice;
       // }
       // else if (BreadQuantity >= 3)
       // {
@@ -36,7 +36,7 @@ namespace PierresBakery.Models
       // }
       // else
       // {
-        return 0;
+        //return 0;
       //}
     }
   }

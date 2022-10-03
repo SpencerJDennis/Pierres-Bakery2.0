@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\pierresbakery\\pierresbakery.csproj": {}
+    "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\PierresBakery\\pierresbakery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\pierresbakery\\pierresbakery.csproj": {
+    "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\PierresBakery\\pierresbakery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\pierresbakery\\pierresbakery.csproj",
+        "projectUniqueName": "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\PierresBakery\\pierresbakery.csproj",
         "projectName": "pierresbakery",
-        "projectPath": "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\pierresbakery\\pierresbakery.csproj",
+        "projectPath": "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\PierresBakery\\pierresbakery.csproj",
         "packagesPath": "C:\\Users\\blade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\pierresbakery\\obj\\",
+        "outputPath": "C:\\Users\\blade\\Desktop\\pierres-bakery\\pierres-bakery.solution\\PierresBakery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blade\\AppData\\Roaming\\NuGet\\NuGet.Config"
